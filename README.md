@@ -10,9 +10,11 @@
 - 🤔 I don't have much knowledge but if you need i can try to help you with some jobs or doubts
 - 💬 Feel free to ask me about anything, i would love to help (if able to hehe)
 - 📫 You can chat with me in those links: 
+
       * https://www.linkedin.com/in/meanmatheus
       * matheuswr89@outlook.com
       * Discord: meanmatheus#3537
+      
  ⚡ I like to play a lot of games, pratice sports, watch Movies, Tv shows and now i'm really into ReactJS. :blush:
 
 
