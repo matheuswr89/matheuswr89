@@ -17,5 +17,10 @@
       
  ⚡ I like to play a lot of games, pratice sports, watch Movies, Tv shows and now i'm really into ReactJS. :blush:
 
+<div>
+  <a href="https://github.com/matheuswr89">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheuswr89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheuswr89&layout=compact&langs_count=8&theme=dracula"/>
+<div>
 
 ![](https://komarev.com/ghpvc/?username=matheuswr89)
