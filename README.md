@@ -13,7 +13,7 @@
 
       * https://www.linkedin.com/in/meanmatheus
       * matheuswr89@outlook.com
-      * Discord: meanmatheus#3537
+      * Discord: whoami#3966
       
  ⚡ I like to play a lot of games, pratice sports, watch Movies, Tv shows and now i'm really into ReactJS. :blush:
 
