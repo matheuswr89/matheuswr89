@@ -14,13 +14,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheuswr89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheuswr89&layout=compact&langs_count=8&theme=dracula"/>
 <div>
-
-
-   ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meanmatheus/)
-
-   ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&link=discord:whoami#3966)
-
-   ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:matheuswr89@outlook.com?BCC=Ol%C3%A1)
-
-   ![](https://komarev.com/ghpvc/?username=matheuswr89)
-
